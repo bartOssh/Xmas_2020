@@ -5,8 +5,8 @@ Simple and Boring Happy Xmas Wishes
 ## Minimal requirements to receive wishes
 
  - Docker version 19.03.13 (maybe lower than 19 will work, not sure)
- - Being on Santa list of nice kids and at lest not to naughty ...
- - Terminal emulator on windows
+ - Being on Santa list of nice kids or at lest not being to naughty ...
+ - Terminal emulator on windows,
 
 ## Run with docker
 
@@ -42,7 +42,7 @@ go build -o xmas .
 ```
 
 ## License
-
+```
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                     Version 0, December 2020
 
@@ -56,3 +56,4 @@ go build -o xmas .
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
   1. You just DO WHAT THE FUCK YOU WANT TO.
+```
